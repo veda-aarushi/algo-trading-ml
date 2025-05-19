@@ -17,3 +17,5 @@ data/processed/
 
 # Mac system files
 .DS_Store
+
+.idea
