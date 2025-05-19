@@ -1,4 +1,19 @@
+# Virtual environment
 venv/
+
+# Python bytecode
 __pycache__/
 *.pyc
+
+# Data folders (raw downloads + processed outputs)
 data/raw/
+data/processed/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
